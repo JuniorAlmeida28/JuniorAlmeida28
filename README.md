@@ -26,7 +26,7 @@
 <a href="https://github.com/JuniorAlmeida28">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorAlmeida28&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"
 />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)"/>
 </div>
   
   ##
