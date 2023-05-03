@@ -28,11 +28,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorAlmeida28&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
-<div align="center">
-<a href="https://github.com/JuniorAlmeida28">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorAlmeida28&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"
-/>
-  
+<div align="center"> 
 </div>
   
   ##
