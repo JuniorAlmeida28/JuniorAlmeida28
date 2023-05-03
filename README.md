@@ -1,4 +1,4 @@
-## Oiii eu sou o Júnior Almeida 👋
+## Olá eu sou o Júnior Almeida 👋
 
 ### Sobre mim 👨‍💻
 
