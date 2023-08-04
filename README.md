@@ -2,7 +2,7 @@
 
 ### Sobre mim 👨‍💻
 
-- 💻 Estudante de Análise e desenvolvimento de sistemas pelo Centro Universitário de João Pessoa - UNIPÊ.
+- 💻 Estudante de Análise e desenvolvimento de sistemas pela Universidade Cruzeiro do Sul.
 - 🌱 Atualmente, estou estudando Backend em Java. 
 - 👀 Sigo sempre curioso para aprender novas tecnologias.
 
