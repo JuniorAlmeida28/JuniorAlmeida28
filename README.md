@@ -2,7 +2,9 @@
 
 ### Sobre mim 👨‍💻
 
-- 💻 Estudante de Análise e desenvolvimento de sistemas pela Universidade Cruzeiro do Sul.
+- 👨‍💻 Desenvolvedor Back-end Java.
+- 💻 Formado em Análise e desenvolvimento de sistemas pela Universidade Cruzeiro do Sul.
+- 💻 Estudante de Sistemas da Informação.
 - 🌱 Atualmente, estou estudando Backend em Java. 
 - 👀 Sigo sempre curioso para aprender novas tecnologias.
 
